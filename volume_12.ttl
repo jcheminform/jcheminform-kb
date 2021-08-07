@@ -1,0 +1,6 @@
+PREFIX jcheminf: <https://jcheminf.biomedcentral.com/ontology/>
+
+<https://doi.org/10.1186/s13321-020-00448-1> a jcheminf:Editorial ; jcheminf:hasCiTOAnnotation "true" .
+<https://doi.org/10.1186/s13321-020-00464-1> a jcheminf:Methodology ; jcheminf:hasCiTOAnnotation "true" .
+<https://doi.org/10.1186/s13321-020-00467-y> a jcheminf:ResearchArticle ; jcheminf:hasCiTOAnnotation "true" .
+<https://doi.org/10.1186/s13321-020-00474-z> a jcheminf:Educational ; jcheminf:hasCiTOAnnotation "true" .
