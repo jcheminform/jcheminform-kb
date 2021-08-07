@@ -1,8 +1,21 @@
 PREFIX jcheminf: <https://jcheminf.biomedcentral.com/ontology/>
+PREFIX doi:      <http://www.wikidata.org/prop/direct/P356>
 
-<https://doi.org/10.1186/s13321-020-00478-9> a jcheminf:Database ; jcheminf:hasCiTOAnnotation "true" .
-<https://doi.org/10.1186/s13321-021-00491-6> a jcheminf:Editorial ; jcheminf:hasCiTOAnnotation "true" .
-<https://doi.org/10.1186/s13321-021-00489-0> a jcheminf:ResearchArticle ; jcheminf:hasCiTOAnnotation "true" .
-<https://doi.org/10.1186/s13321-021-00515-1> a jcheminf:Software ; jcheminf:hasCiTOAnnotation "true" .
-<https://doi.org/10.1186/s13321-021-00520-4> a jcheminf:LetterToTheEditor ; jcheminf:hasCiTOAnnotation "true" .
-<https://doi.org/10.1186/s13321-021-00521-3> a jcheminf:LetterResponse ; jcheminf:hasCiTOAnnotation "true" .
+<https://doi.org/10.1186/s13321-020-00478-9> a jcheminf:Database ;
+  doi: "10.1186/s13321-020-00478-9" ;
+  jcheminf:hasCiTOAnnotation "true" .
+<https://doi.org/10.1186/s13321-021-00491-6> a jcheminf:Editorial ;
+  doi: "10.1186/s13321-021-00491-6" ;
+  jcheminf:hasCiTOAnnotation "true" .
+<https://doi.org/10.1186/s13321-021-00489-0> a jcheminf:ResearchArticle ;
+  doi: "10.1186/s13321-021-00489-0" ;
+  jcheminf:hasCiTOAnnotation "true" .
+<https://doi.org/10.1186/s13321-021-00515-1> a jcheminf:Software ;
+  doi: "10.1186/s13321-021-00515-1" ;
+  jcheminf:hasCiTOAnnotation "true" .
+<https://doi.org/10.1186/s13321-021-00520-4> a jcheminf:LetterToTheEditor ;
+  doi: "10.1186/s13321-021-00520-4" ;
+  jcheminf:hasCiTOAnnotation "true" .
+<https://doi.org/10.1186/s13321-021-00521-3> a jcheminf:LetterResponse ;
+  doi: "10.1186/s13321-021-00521-3" ;
+  jcheminf:hasCiTOAnnotation "true" .
