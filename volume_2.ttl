@@ -1,0 +1,13 @@
+PREFIX jcheminf: <https://jcheminf.biomedcentral.com/ontology/>
+
+<https://doi.org/10.1186/1758-2946-2-1> a jcheminf:Review .
+<https://doi.org/10.1186/1758-2946-2-2> a jcheminf:ResearchArticle .
+<https://doi.org/10.1186/1758-2946-2-3> a jcheminf:ResearchArticle .
+<https://doi.org/10.1186/1758-2946-2-4> a jcheminf:Erratum .
+<https://doi.org/10.1186/1758-2946-2-5> a jcheminf:Methodology .
+<https://doi.org/10.1186/1758-2946-2-6> a jcheminf:Software .
+<https://doi.org/10.1186/1758-2946-2-7> a jcheminf:ResearchArticle .
+<https://doi.org/10.1186/1758-2946-2-8> a jcheminf:ResearchArticle .
+<https://doi.org/10.1186/1758-2946-2-9> a jcheminf:Methodology .
+<https://doi.org/10.1186/1758-2946-2-10> a jcheminf:Software .
+<https://doi.org/10.1186/1758-2946-2-11> a jcheminf:ResearchArticle .
