@@ -1,0 +1,15 @@
+PREFIX jcheminf: <https://jcheminf.biomedcentral.com/ontology/>
+PREFIX doi:      <http://www.wikidata.org/prop/direct/P356>
+
+<https://doi.org/10.1186/s13321-021-00573-5> a jcheminf:Database ;
+  doi: "10.1186/s13321-021-00573-5" ;
+  jcheminf:hasCiTOAnnotation "true" .
+<https://doi.org/10.1186/s13321-022-00597-5> a jcheminf:Editorial ;
+  doi: "10.1186/s13321-022-00597-5" ;
+  jcheminf:hasCiTOAnnotation "true" .
+<https://doi.org/10.1186/s13321-022-00614-7> a jcheminf:ResearchArticle ;
+  doi: "10.1186/s13321-022-00614-7" ;
+  jcheminf:hasCiTOAnnotation "true" .
+<https://doi.org/10.1186/s13321-022-00620-9> a jcheminf:DataNote ;
+  doi: "10.1186/s13321-022-00620-9" ;
+  jcheminf:hasCiTOAnnotation "true" .
