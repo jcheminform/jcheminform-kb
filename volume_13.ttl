@@ -19,3 +19,9 @@ PREFIX doi:      <http://www.wikidata.org/prop/direct/P356>
 <https://doi.org/10.1186/s13321-021-00521-3> a jcheminf:LetterResponse ;
   doi: "10.1186/s13321-021-00521-3" ;
   jcheminf:hasCiTOAnnotation "true" .
+<https://doi.org/10.1186/s13321-021-00538-8> a jcheminf:ResearchArticle ;
+  doi: "10.1186/s13321-021-00538-8" ;
+  jcheminf:hasCiTOAnnotation "true" .
+<https://doi.org/10.1186/s13321-021-00561-9> a jcheminf:ResearchArticle ;
+  doi: "10.1186/s13321-021-00561-9" ;
+  jcheminf:hasCiTOAnnotation "true" .
